@@ -1,0 +1,29 @@
+{
+  "dataset_rows": 442,
+  "dataset_columns": 11,
+  "features": [
+    "age",
+    "sex",
+    "bmi",
+    "bp",
+    "s1",
+    "s2",
+    "s3",
+    "s4",
+    "s5",
+    "s6"
+  ],
+  "target": "target",
+  "files": [
+    "requirements.txt",
+    ".gitignore",
+    "README.md",
+    "LICENSE",
+    "src/__init__.py",
+    "src/explain.py",
+    "src/train.py",
+    "data/diabetes_progression.csv",
+    "data/data_dictionary.csv",
+    "notebooks/01_healthcare_outcome_prediction.ipynb"
+  ]
+}
