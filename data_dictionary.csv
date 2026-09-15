@@ -1,0 +1,12 @@
+feature,description
+age,Age (standardized)
+sex,Sex (standardized)
+bmi,"Body mass index, BMI (standardized)"
+bp,"Average blood pressure, BP (standardized)"
+s1,"Total serum cholesterol, S1 (standardized)"
+s2,"Low-density lipoproteins, LDL, S2 (standardized)"
+s3,"High-density lipoproteins, HDL, S3 (standardized)"
+s4,"Total cholesterol / HDL ratio, S4 (standardized)"
+s5,"Triglycerides level, TCH (standardized)"
+s6,"Blood sugar level, LTG (standardized)"
+target,Disease progression measure one year after baseline
